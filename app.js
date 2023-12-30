@@ -80,7 +80,7 @@ http
            }
       </style>
       `);
-    }, 3000);
+    }, 4000);
 
 
     setTimeout(() => {
@@ -103,7 +103,7 @@ http
            }
       </style>
       `);
-    }, 3000);
+    }, 5000);
 
     setTimeout(() => {
       res.write(`
@@ -126,7 +126,7 @@ http
            }
       </style>
       `);
-    }, 3000);
+    }, 6000);
 
     setTimeout(() => {
       res.write(`<div class="footer">
